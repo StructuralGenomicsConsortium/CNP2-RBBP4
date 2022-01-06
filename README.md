@@ -10,7 +10,7 @@ The molecule at the heart of this project is this:
 <a href="url"><img src="https://github.com/StructuralGenomicsConsortium/CNP2-RBBP4/blob/main/RBBP4_strating%20point.png?raw=true" align="centre" height="190" ></a>
 
 
-For data on this compound, and why it's an important target for synthetic variation, go to the wiki.
+Co-crystal structure of the hit compound with RBBP4 is available to guide the structure based optimisation. https://www.rcsb.org/3d-view/7M40?preset=ligandInteraction&label_asym_id=C
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
