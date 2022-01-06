@@ -3,7 +3,7 @@ An SGC Chemical Networks Project Devoted to the target RBBP4
 
 The ask: you contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
 
-If this sounds interesting, and you agree to the simple RULES, you can get started.
+If this sounds interesting, and you agree to the simple Rules, you can get started.
 
 The molecule at the heart of this project is this:
 
