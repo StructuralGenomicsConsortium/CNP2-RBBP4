@@ -7,7 +7,7 @@ If this sounds interesting, and you agree to the simple [RULES](https://www.thes
 
 The molecule at the heart of this project is this:
 
-CN(C)C(CC1)CN1C2=NC(NCCCN(C)C)=NC3=CC(OC)=C(OC)C=C32
+https://github.com/StructuralGenomicsConsortium/CNP2-RBBP4/blob/main/RBBP4_strating%20point.png
 
 
 For data on this compound, and why it's an important target for synthetic variation, go to the wiki.
