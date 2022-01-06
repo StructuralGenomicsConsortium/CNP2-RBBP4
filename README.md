@@ -3,7 +3,7 @@ An SGC Chemical Networks Project Devoted to the target RBBP4
 
 The ask: you contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
 
-If this sounds interesting, and you agree to the simple Rules, you can get started.
+If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
 The molecule at the heart of this project is this:
 
@@ -12,7 +12,7 @@ CN(C)C(CC1)CN1C2=NC(NCCCN(C)C)=NC3=CC(OC)=C(OC)C=C32
 
 For data on this compound, and why it's an important target for synthetic variation, go to the wiki.
 
-For answers to all the questions you have, go to the FAQs.
+For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
 If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions.
 
