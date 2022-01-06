@@ -22,5 +22,7 @@ Some humans involved in this CNP:
 Professor Masoud Vedadi, Structural Genomics Consortium, University of Toronto. Original discoverers of the molecule.
 
 Professor Matthew Todd, University College London and Head of Open Chemistry Networks at the SGC.
+
 Dr. Sumera Perveen, Project Champion, Structural Genomics Consortium 
+
 Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium
