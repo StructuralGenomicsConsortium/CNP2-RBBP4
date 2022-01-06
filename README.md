@@ -7,7 +7,7 @@ If this sounds interesting, and you agree to the simple [RULES](https://www.thes
 
 The molecule at the heart of this project is this:
 
-https://github.com/StructuralGenomicsConsortium/CNP2-RBBP4/blob/main/RBBP4_strating%20point.png
+<a href="url"><img src="https://github.com/StructuralGenomicsConsortium/CNP2-RBBP4/blob/main/RBBP4_strating%20point.png?raw=true" align="centre" height="190" ></a>
 
 
 For data on this compound, and why it's an important target for synthetic variation, go to the wiki.
