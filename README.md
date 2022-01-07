@@ -20,7 +20,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Current scientific status of the project is on the wiki (you can always find the relevant tab above). The current version of the research paper describing this project is at  https://biorxiv.org/cgi/content/short/2022.01.05.475077v1 and is a great place to start if you're new to all this.
 
-Some humans involved in this CNP:
+Some humans involved in this CNP:  
 Professor Masoud Vedadi, Structural Genomics Consortium, University of Toronto. Original discoverer of the molecules.  
 Professor Matthew Todd, University College London. Head of Open Chemistry Networks at the SGC.  
 Dr. Sumera Perveen, Sir James Murray Project Champion, Structural Genomics Consortium.  
