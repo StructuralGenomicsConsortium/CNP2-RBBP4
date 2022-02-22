@@ -22,6 +22,7 @@ Current scientific status of the project is on the wiki (you can always find the
 
 Some humans involved in this CNP:  
 Professor Masoud Vedadi, Structural Genomics Consortium, University of Toronto. Original discoverer of the molecules.  
-Professor Matthew Todd, University College London. Head of Open Chemistry Networks at the SGC.  
-Dr. Sumera Perveen, Sir James Murray Project Champion, Structural Genomics Consortium.  
-Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium.  
+Professor Matthew Todd, University College London. Head of Open Chemistry Networks at the SGC, @mattodd.  
+Dr. Sumera Perveen, Sir James Murray Project Champion, Structural Genomics Consortium, @SumeraMalik123.  
+Dr Jamie Scott, Pharma Industry Champion, AstraZeneca, @Jamie3911.  
+Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium, Santha-SGC.  
