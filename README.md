@@ -26,5 +26,6 @@ Professor Matthew Todd, University College London. Head of Open Chemistry Networ
 Dr. Sumera Perveen, Sir James Murray Project Champion, Structural Genomics Consortium, @SumeraMalik123.  
 Dr Jamie Scott, Pharma Industry Champion, AstraZeneca, @Jamie3911.  
 Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium, @Santha-SGC.  
-The team for this OCN may be messaged by using @StructuralGenomicsConsortium/rbbp4 (team shown [here](https://github.com/orgs/StructuralGenomicsConsortium/teams/rbbp4))
+
+The team for this OCN may be messaged by using @StructuralGenomicsConsortium/rbbp4 (team shown [here](https://github.com/orgs/StructuralGenomicsConsortium/teams/rbbp4))  
 All SGC OCN members (i.e. this and other projects) can be viewed [here](https://github.com/orgs/StructuralGenomicsConsortium/people).
