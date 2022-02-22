@@ -1,5 +1,5 @@
 # CNP2-RBBP4
-An SGC Chemical Networks Project Devoted to the target RBBP4
+An SGC Open Chemistry Networks Project devoted to the target RBBP4
 
 The ask: you contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
 
