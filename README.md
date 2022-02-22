@@ -25,4 +25,4 @@ Professor Masoud Vedadi, Structural Genomics Consortium, University of Toronto. 
 Professor Matthew Todd, University College London. Head of Open Chemistry Networks at the SGC, @mattodd.  
 Dr. Sumera Perveen, Sir James Murray Project Champion, Structural Genomics Consortium, @SumeraMalik123.  
 Dr Jamie Scott, Pharma Industry Champion, AstraZeneca, @Jamie3911.  
-Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium, Santha-SGC.  
+Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium, @Santha-SGC.  
