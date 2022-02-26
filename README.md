@@ -29,3 +29,5 @@ Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium, @S
 
 The team for this OCN may be messaged by using @StructuralGenomicsConsortium/rbbp4 (team shown [here](https://github.com/orgs/StructuralGenomicsConsortium/teams/rbbp4))  
 All SGC OCN members (i.e. this and other projects) can be viewed [here](https://github.com/orgs/StructuralGenomicsConsortium/people).
+
+<a href="url"><img src="https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/blob/main/Open%20Chemistry%20Networks%20Logos/OCN_Logo_Final_smban.png?raw=true" align="centre" height="300" ></a>
